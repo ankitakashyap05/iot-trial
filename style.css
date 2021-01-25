@@ -69,14 +69,14 @@ body {
       top:70%;
     }
     
-    .navigation.active. ham-btn span:nth-child(1) {
+    .navigation.active .ham-btn span:nth-child(1) {
       top:50%;
       transform:translate(-50%,-50%) ;
     }
-    .navigation.active. ham-btn span:nth-child(2) {
+    .navigation.active .ham-btn span:nth-child(2) {
       display:none;
     } 
-    .navigation.active. ham-btn span:nth-child(3) {
+    .navigation.active .ham-btn span:nth-child(3) {
        top:50%;
       transform:translate(-50%,-50%);
     }
