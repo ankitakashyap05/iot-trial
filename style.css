@@ -113,3 +113,76 @@ body {
     .navigation .links a:hover:after{
       width:100%;
     }
+
+    /* Ankita's code below */
+
+    /* * {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    } */
+    
+    /* body {
+      background: #000;
+    } */
+    #ankita{
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    }
+    .container {
+      text-align: center;
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translate(-50%, -150%);
+    
+      width: 100%;
+    }
+    
+    .container span {
+      -webkit-text-stroke: 2px black;
+      color: white;
+      text-transform: uppercase;
+      display: block;
+    }
+    
+    .text1 {
+      color: wheat;
+      font-size: 90px;
+      font-weight: 700;
+      font-family: arial, helvetica, cursive;
+      letter-spacing: 4px;
+      margin-top: 400px;
+      margin-bottom: 20px;
+      /* background-opacity:100%; */
+      position: relative;
+      animation: text 3s 1;
+    }
+    
+    .text2 {
+      font-size: 40px;
+      color: white;
+      font-weight: 1000;
+      letter-spacing: 6px;
+      margin-top: 40px;
+      margin-bottom: 20px;
+      /* background-opacity=100%; */
+      position: relative;
+      animation: text 3s 1;
+    }
+    
+    @keyframes text {
+      0% {
+        color: black;
+      }
+      30% {
+        letter-spacing: 25px;
+        margin-bottom: -40px;
+      }
+      85% {
+        letter-spacing: 25px;
+        margin-bottom: -40px;
+      }
+    }
+    
