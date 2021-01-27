@@ -18,6 +18,7 @@
 
 /* Anjali vats's code Below */
 body {
+  /* margin:0px; */
   font-family:"Open Sans",sans-serif;
 }
 
@@ -38,7 +39,7 @@ font-size:18px;
   
 }
 .navigation.active{
-  clip-path:circle(5%)}
+  clip-path:circle(75%)}
 
 .navigation .ham-btn{
   position:absolute;
@@ -121,7 +122,7 @@ position:absolute;
     
 #sudhanshu{
   background-color:black;
-  padding: 4% 7% 4% 7%;
+  padding: 4% 7% 2% 7%;
   color: whitesmoke;
 
 }
