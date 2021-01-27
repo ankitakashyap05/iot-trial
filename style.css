@@ -17,10 +17,10 @@
 }
 
 /* Anjali vats's code Below */
-body { 
-  margin:0px;
+body {
   font-family:"Open Sans",sans-serif;
 }
+
 .content {
 padding:20px;
 font-size:18px;
@@ -38,7 +38,7 @@ font-size:18px;
   
 }
 .navigation.active{
-  clip-path:circle(75%)}
+  clip-path:circle(5%)}
 
 .navigation .ham-btn{
   position:absolute;
