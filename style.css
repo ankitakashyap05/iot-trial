@@ -177,12 +177,12 @@ h1{
     
     .text1 {
       color: wheat;
-      font-size: 90px;
+      font-size: 70px;
       font-weight: 700;
       font-family: arial, helvetica, cursive;
       letter-spacing: 4px;
       margin-top: 400px;
-      margin-bottom: 1px;
+      margin-bottom: 0px;
       /* background-opacity:100%; */
       position: relative;
       animation: text 3s 1;
@@ -193,7 +193,7 @@ h1{
       color: white;
       font-weight: 1000;
       letter-spacing: 6px;
-      margin-top: 1px;
+      margin-top: 0px;
       margin-bottom: 20px;
       /* background-opacity=100%; */
       position: relative;
@@ -206,11 +206,11 @@ h1{
       }
       30% {
         letter-spacing: 25px;
-        margin-bottom: -40px;
+        margin-bottom: -50px;
       }
       85% {
         letter-spacing: 25px;
-        margin-bottom: -40px;
+        margin-bottom: -10px;
       }
     }
     
