@@ -182,7 +182,7 @@ h1{
       font-family: arial, helvetica, cursive;
       letter-spacing: 4px;
       margin-top: 400px;
-      margin-bottom: 20px;
+      margin-bottom: 1px;
       /* background-opacity:100%; */
       position: relative;
       animation: text 3s 1;
@@ -193,7 +193,7 @@ h1{
       color: white;
       font-weight: 1000;
       letter-spacing: 6px;
-      margin-top: 40px;
+      margin-top: 1px;
       margin-bottom: 20px;
       /* background-opacity=100%; */
       position: relative;
